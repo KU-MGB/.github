@@ -65,7 +65,7 @@ Before its score counts, a candidate must **reproduce the catalytic machinery** 
 
 | | |
 |---|---|
-| **Shaban Ahmad** | Lead developer — AI‑driven bioinformatics & pipeline architecture · [ORCID](https://orcid.org/0000-0001-9832-2830) |
+| **Shaban Ahmad** | Lead developer — AI‑driven bioinformatics & pipeline architecture · [Research profile](https://researchprofiles.ku.dk/en/persons/shaban-ahmad/) |
 | **Benedetta Togni** | MSc dissertation — environmental biotechnology |
 | **Tue K. Nielsen** | Principal supervisor · [Research profile](https://researchprofiles.ku.dk/en/persons/tue-kj%C3%A6rgaard-nielsen/) |
 
