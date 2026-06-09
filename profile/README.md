@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🧬 Microbial Genomics & Biodegradation
-### KU‑MGB · University of Copenhagen
+## KU‑MGB · University of Copenhagen
 
 **Computational discovery of enzymes that break the strongest bond in organic chemistry — the carbon–fluorine bond of PFAS.**
 
