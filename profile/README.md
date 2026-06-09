@@ -22,4 +22,4 @@ We are a research group at the University of Copenhagen exploring microbial geno
 **Tue K. Nielsen** — Scientific Supervisor  
 
 ### 🌐 Learn More
-Visit our [website](https://ku‑mgb.github.io) or contact us at **shaban.ucph@gmail.com**.
+Visit our [website](https://ku-mgb.github.io) or contact us at [shaban.ucph@gmail.com](mailto:shaban.ucph@gmail.com).
