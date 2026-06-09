@@ -50,15 +50,6 @@ Before its score counts, a candidate must **reproduce the catalytic machinery** 
 
 > Several research repositories are currently **private** while under review, and will be opened on publication.
 
-## 🛠️ Methods & tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Boltz-2](https://img.shields.io/badge/Boltz--2-Structure_Prediction-5A2D82?style=flat-square)
-![Schrödinger](https://img.shields.io/badge/Schrödinger-Desmond_·_QSite-EE3124?style=flat-square)
-![HMMER](https://img.shields.io/badge/HMMER_·_BLAST-Homology-0072B2?style=flat-square)
-![Foldseek](https://img.shields.io/badge/Foldseek_·_MMseqs2-Structure_Search-1B7837?style=flat-square)
-![ESM-2](https://img.shields.io/badge/ESM--2_·_UMAP-Embeddings-D55E00?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas_·_NumPy-Data-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ## 👥 Team
 
