@@ -48,7 +48,7 @@ Before its score counts, a candidate must **reproduce the catalytic machinery** 
 | [**Whole_Proteome_TFA_Defluorination**](https://github.com/KU-MGB/Whole_Proteome_TFA_Defluorination) | Proteome‑wide search for enzymes that defluorinate **trifluoroacetate (TFA)**, the terminal PFAS dead‑end metabolite. | Python |
 | [**KU‑MGB.github.io**](https://github.com/KU-MGB/KU-MGB.github.io) | Group website and interactive result dashboards. | TypeScript |
 
-> Several research repositories are currently **private** while under review, and will be opened on publication.
+> Several research repositories are currently **private** while under review and will be opened on publication.
 
 
 ## 👥 Team
@@ -61,7 +61,7 @@ Before its score counts, a candidate must **reproduce the catalytic machinery** 
 
 ## 🌐 Get in touch
 
-🔗 **Website:** [ku-mgb.github.io](https://ku-mgb.github.io)  ·  ✉️ **Contact:** [shaban.ucph@gmail.com](mailto:shaban.ucph@gmail.com)
+🔗 **Website:** [ku-mgb.github.io](https://ku-mgb.github.io)  ·  ✉️ **Contact:** [ucphmgb@gmail.com](mailto:ucphmgb@gmail.com)
 
 <div align="center">
 <sub>Department of Plant and Environmental Sciences · University of Copenhagen · Denmark</sub>
